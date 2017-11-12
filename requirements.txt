@@ -1,0 +1,4 @@
+wxPython
+xlrd
+xlsxwriter
+matplotlib
